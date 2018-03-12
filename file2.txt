@@ -1,1 +1,2 @@
 creating in master as part of second commit
+changing in master to check merge1
